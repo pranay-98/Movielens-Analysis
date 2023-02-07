@@ -1,4 +1,4 @@
-# Movielens-Analysis
+# Movie Recommendations using Python and Spark on Microsoft Azure
 Analyzing movielens dataset using Azure databricks
 
 The objective of this project was to generate movie recommendations using the combination of Python and Spark on Microsoft Azure. To start, I first understood the problem and downloaded the Movielens dataset from the GroupLens website. Then, I set up a subscription for Microsoft Azure, organizing my resources into a resource group.
